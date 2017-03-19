@@ -1,0 +1,7 @@
+$rad : 10px;
+
+.sample {
+    background-color : #eeeeaa;
+    border-radius: $rad;
+    display: flex;
+}

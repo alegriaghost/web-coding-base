@@ -1,0 +1,6 @@
+### JetBrains template
+.idea
+
+### Node template
+npm-debug.log*
+node_modules/
